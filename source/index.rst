@@ -13,14 +13,14 @@ We’re passionate about equipping students with the skills needed for higher ed
 
 That's why we've developed full lesson plans with interactive PsychoPy experiments that are, and always will be, free to download and use. Just click the links below!
 
-  +----------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
-  |      Key Theme             |      Experiment    |  Resource pack                                                                                                                        |
-  +============================+====================+=======================================================================================================================================+
-  | Memory                     | Primacy/recency    | `Link to resource pack  <https://pavlovia.org/store/workshops/2022-4-20-psychopy-creating-experiments>`_                              |
-  +----------------------------+--------------------+----------------------+-------------------------------+--------------------------------------------------------------------------------+
-  | Conformity                 | Asch replication   | `Link to resource pack  <https://pavlovia.org/store/workshops/2022-5-25-psychopy-creating-experiments>`_                              |
-  +----------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
-  | Attention                  | Dichotic listening | `Link to resource pack <https://pavlovia.org/store/workshops/2022-5-25-psychopy-creating-experiments>`_                               |
-  +----------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
++----------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|      Key Theme             |      Experiment    |  Resource pack                                                                                                                        |
++============================+====================+=======================================================================================================================================+
+| Memory                     | Primacy/recency    | `Link to resource pack  <https://pavlovia.org/store/workshops/2022-4-20-psychopy-creating-experiments>`_                              |
++----------------------------+--------------------+----------------------+-------------------------------+--------------------------------------------------------------------------------+
+| Conformity                 | Asch replication   | `Link to resource pack  <https://pavlovia.org/store/workshops/2022-5-25-psychopy-creating-experiments>`_                              |
++----------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Attention                  | Dichotic listening | `Link to resource pack <https://pavlovia.org/store/workshops/2022-5-25-psychopy-creating-experiments>`_                               |
++----------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
 
-  If you have feedback or questions we'd love to know! Just post on our dedicated `Schools Discourse Forum <https://discourse.psychopy.org/t/about-the-schools-category/29671>`_
+If you have feedback or questions we'd love to know! Just post on our dedicated `Schools Discourse Forum <https://discourse.psychopy.org/t/about-the-schools-category/29671>`_
