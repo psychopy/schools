@@ -24,7 +24,7 @@ Check back here soon for more resources!
 Experiments
 -----------------
 
-Just click the links to take part in these experiments:
+Just click the links to try out these experiments:
 
 - `Stroop <https://run.pavlovia.org/KimberleyDundas/stroop_correct?participant=1&session=001>`_
 - `Craik and Tulving replication <https://run.pavlovia.org/KimberleyDundas/craik_tulving?participant=1&session=001>`_
