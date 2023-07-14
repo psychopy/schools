@@ -19,19 +19,15 @@ Check back here soon for more resources!
 
 .. image:: /images/desktop_builder.png
 
-.. _lessonPlans:
+.. _experiments:
 
-Lesson Plans
+Experiments
 -----------------
 
-+----------------------------+--------------------+
-|      Key Theme             |      Experiment    |
-+============================+====================+
-| Memory                     | Primacy/recency    |
-+----------------------------+--------------------+
-| Conformity                 | Asch replication   |
-+----------------------------+--------------------+
-| Attention                  | Dichotic listening |
-+----------------------------+--------------------+
+`Stroop <https://run.pavlovia.org/KimberleyDundas/stroop_correct?participant=1&session=001>`_
+`Craik and Tulving replication <https://run.pavlovia.org/KimberleyDundas/craik_tulving?participant=1&session=001>`_
+`Asch replication <https://run.pavlovia.org/Consultancy/demo_1?participant=1&session=001>`_
+`Primacy/recency effect <https://run.pavlovia.org/Consultancy/demo_2?participant=1&session=001>`_
+`Dichotic listening <https://run.pavlovia.org/Consultancy/demo_3?participant=1&session=001>`_
 
 If you have feedback or questions we'd love to know! Just post on our dedicated `Schools Discourse Forum <https://discourse.psychopy.org/t/about-the-schools-category/29671>`_
