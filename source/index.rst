@@ -27,6 +27,7 @@ Experiments
 Just click the links to try out these experiments:
 
 - `Stroop <https://run.pavlovia.org/KimberleyDundas/stroop_correct?participant=1&session=001>`_
+- `Steyvers and Hemmer replication (special thanks to Amy Woodcock for creating this!) <https://run.pavlovia.org/Consultancy/steyversandhemmerrecreation/>`
 - `Craik and Tulving replication <https://run.pavlovia.org/KimberleyDundas/craik_tulving?participant=1&session=001>`_
 - `Asch replication <https://run.pavlovia.org/Consultancy/demo_1?participant=1&session=001>`_
 - `Primacy/recency effect <https://run.pavlovia.org/Consultancy/demo_2?participant=1&session=001>`_
